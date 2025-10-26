@@ -1,0 +1,5 @@
+{
+  "name": "Passport Size Pro",
+  "description": "An AI-powered tool for transforming multiple photos into high-quality, studio-style passport images using the Gemini 2.5 flash image model.",
+  "requestFramePermissions": []
+}
